@@ -1,21 +1,23 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 26/03/21
+**Course Date:** 22/03/21
 **Name:** Batuhan 
 **Surname:** Sarıtaş  
 **Email:** batuhansrts09@gmail.com  
 
 
 ## Project Name
-Description of your project.
+Diamond Pricing with 4 different ML models: Decision Tree Classifier, Random Forest Classifier, XGBoost and Support Vector Machine
 
 ## Requirements
 ```
-sklearn
+scikit-learn
 pandas
 numpy
 seaborn
+imblearn
+xgboost
 
 ```
 ---
