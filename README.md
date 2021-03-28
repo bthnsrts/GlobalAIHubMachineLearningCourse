@@ -18,7 +18,6 @@ numpy
 seaborn
 imblearn
 xgboost
-
 ```
 ---
 
